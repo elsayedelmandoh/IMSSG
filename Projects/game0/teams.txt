@@ -1,0 +1,330 @@
+################################# Y6A ####################################
+> Team 1
+Mostafa
+seif
+malek
+adam mhmd
+
+> Team 2
+moslem
+tayem
+Yousef
+Mohamed abd
+
+> Team 3
+adam ezzat
+yamen
+Yassin
+Mohamed modar
+
+> Team 4
+razan
+lemar
+yara
+
+> Team 5
+ghazal
+roaa
+ 
+> Team6
+farida 
+dana 
+
+################################# Y6B ####################################
+> Team 1 > doing
+eyad rashad
+ziyad
+Yousef
+adam bahaa
+
+> Team 2 > doing
+malika
+anne
+omsalama
+amina
+
+> Team 3 > doing
+amr sheriff
+Yehia
+Mohamed essam
+
+> Team 4 > doing
+Yassin
+hashim
+eyad basil
+eyad m
+Mohamed moj
+
+> Team 5 > doing
+Rahaf
+remas
+salma
+
+> Team 6
+Marwan
+eyad t
+adam m
+
+################################# G8A ####################################
+> Team 1 > doing > done
+amin
+ali
+Mahmoud gehad
+ahmed hamdy
+
+> Team 2 > doing
+mirna suhail
+remas
+Shaimaa
+malak Mohamed
+rancy
+
+> Team 3 > doing
+Yousef email
+ahmed Mohamed
+
+> Team 4 >doing
+omar ahmed
+adam
+Abdelrahman
+Mohamed
+asser ahmed
+
+> Team 5> doing
+eleen 
+malak abdelhaa
+
+> Team 6 > doing
+ahmed amer
+hassan 
+
+> Team 7
+
+################################# G8B ####################################
+> Team 1
+
+
+> Team 2
+
+
+> Team 3
+
+
+> Team 4
+
+
+> Team 5
+
+
+################################# G9A ####################################
+> Team 1 > doing > done
+noon Mohamed
+nour khalifa
+
+> Team 2 > doing > done
+hala waalid
+retag Zakaria
+
+> Team 3 > doing > done
+nada desoky
+maram gehad
+tuqa sameh
+lamar
+sally taalat
+
+> Team 4 > doing > done
+mariam Khaled
+shams Mohamed
+mabrouka masoud
+jasmin wael
+
+> team 5 > doing
+sheeth
+saif
+
+################################# G9B ####################################
+> Team 1 > doing > done
+anas Mohamed amin
+Abdulrahman omar
+ahmed fawzy
+baraa mohamed
+
+> Team 2
+saleh osamah
+Mohamed wael
+omar wael
+amged elsadig
+
+> Team 3 > doing > done
+abdulaziz ahmed	g9b
+asser tarek 	g9b
+yamen		g9a
+amer 		g9a
+
+> Team 4
+malak nabil
+
+> Team 5 > done 500
+kenzy ali
+malak fawzy
+
+> Team 6
+alia omar
+yathreb Mohamed
+Habiba ehab
+
+> Team 7
+roa hammami
+joud moahamed
+albatool wagdy
+kenzy essam
+
+> Team 8
+Abdullah islam
+
+################################# G10A ###################################
+> Team 1 > doing > done
+Ali Ahmed
+Tarek Amir
+
+> Team 2 > doing
+Lara Amr
+Nadeen Ahmed
+Rawan Mohamed
+
+> Team 3 > doing > done
+Mohamed Elsayed
+Solieman
+Mohamed Mostafa
+Eyad Ahmed
+Shady Elsayed
+
+> Team 4
+Tya Atef
+Limar Amr
+Farah Ammar
+Kenzy Shenoda
+
+> Team 5 > doing
+Mohamed Ayman
+Mazen Ahmed
+Hamza Eissa
+Yousef Talal
+Yassin Hayham
+
+> Team 6
+hamza eisaa g10a
+ahmed naay g10b
+
+################################# G10B #####################################
+> Team 1
+selien baher
+malak mohammed shalaby
+joudy tamer
+
+> Team 2
+kenzy samer
+mariem abouniel
+malak ahmed
+
+> Team 3 > doing
+deema abdelsattar
+mariam Mohamed saed
+
+> Team 4 > doing > done
+Mohamed tamer * 100
+Mohamed baher   80
+Mohamed Abdelbaset 80
+
+> Team 5
+Mohamed Mahmoud
+Azzam
+hamza tamer
+Youssef mohamed
+
+> Team 6
+adham sheriff
+salah
+saif wahba
+mariam botras
+
+> Team 7
+ali hisham
+eyad hisham
+
+################################# G10C ####################################
+> Team 1 > doing > done
+lamar Mohamed 	 *
+maril Hamza
+fayrouz Mohamed
+nour ahmed
+farida
+
+> Team 2 > doing > done
+roqia gamal
+yara ehab 	 *
+rawda osama	 *
+jana bassem
+ghazals
+
+> Team 3 > undone
+faisal Mohamed
+shehab Mohamed
+ziad ehab
+ahmed abdelnoor
+
+> Team 4
+eyad wael
+mhmd Abdelhamid - matary
+ali
+Mostafa Mohamed
+Mostafa moatez
+
+> Team 5 > doing > done
+adam saeed 	*
+moataz karim
+Ibrahim ahmed
+ahmed Khaled
+mhmd saeed
+
+################################# G10D ####################################
+> Team 1
+Mohamed Hany
+Yousef amr
+mazen alaa
+Yousef hassan
+
+> Team 2 > doing > done
+alaa Khalil
+taleen arazig
+jury yazeed
+safia ayman
+
+> Team 3 > done 80
+nour
+sandy
+ola
+sabahy
+
+> Team 4 > doing > done
+haya
+jakinda
+shahd
+rawan
+
+> Team 5 > doing > done
+Yousef Mahmoud
+omar ayman
+abdulla hassan
+mohammed ashraf
+
+> Team 6
+ahmed mohammed
+Yousef ahmed
+mouaz waleed
+asad
+
+> Team 7 > doing
+Mohamed omer
+abdulla hisham
+hassan
